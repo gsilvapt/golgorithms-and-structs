@@ -1,4 +1,4 @@
-package main
+package linkedgolist
 
 type node struct {
 	data interface{} // Works for any type but requires factories for them all

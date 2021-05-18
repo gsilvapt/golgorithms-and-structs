@@ -1,4 +1,4 @@
-package bintree
+package gonary_tree
 
 // Node represents a bit of the binary tree that takes integer values.
 // The left reference to a new node represents inferior values, whereas the
